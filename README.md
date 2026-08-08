@@ -24,14 +24,14 @@
 name: Tanishh Kanade
 role: B.Sc CS Student (2nd Year) — Indira University (ICCS)
 location: Wakad, Pune, India
-currently_working_on: JavaScript, DSA, Python
+currently_working_on: DSA, Python
 currently_learning: Coders Group
-ask_me_about: C, Python (basics)
+ask_me_about: C, Python(basics)
 email: tanishkande9@gmail.com
 fun_fact: I debug better with coffee ☕
 ```
 
-- 🔭 Currently grinding through **JavaScript, DSA & Python**
+- 🔭 Currently grinding through **DSA & Python**
 - 🌱 Part of **Coders Group** — learning alongside a community
 - 💬 Ask me about **C and Python basics**
 - 📫 Reach me at: **tanishkande9@gmail.com**
